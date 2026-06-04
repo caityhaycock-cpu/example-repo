@@ -1,12 +1,10 @@
 # _Folder Factory_ 📁
-## Creating and Removing New Folders
+## Creating and Removing Folders
 
-This code creates three new folders in a location using the mkdir (make directory) function.  
+This program demonstrates how to create and remove directories using the mkdir and rmdir functions.
 
-It navigates into the first folder and creates three new folders.
+First, it creates three new folders in a specified location using the mkdir (make directory) function. It then navigates into the first folder and creates three additional subfolders.
 
-Another feature of this project is that folders are removed using the rmdir (remove directory) function.  
+The program also demonstrates directory removal. It enters the first folder and deletes the last two subfolders that were created using the rmdir (remove directory) function.
 
-This program navigates to the first folder and removes the last two folders created.
-
-Upon folder creation and removal, a message indicating the respective action will be displayed.
+Whenever a folder is created or removed, a message is displayed to confirm the action.
