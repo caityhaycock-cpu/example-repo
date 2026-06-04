@@ -7,6 +7,6 @@ It navigates into the first folder and creates three new folders.
 
 Another feature of this project is that folders are removed using the rmdir (remove directory) function.  
 
-Navigating into the first folder, this program removes the last two folders created.
+This program navigates to the first folder and removes the last two folders created.
 
 Upon folder creation and removal, a message indicating the respective action will be displayed.
